@@ -6,6 +6,7 @@ TVET Training Systems Siemens TIA Portal V19 example projects
 - 1200 series PLC
 - 1500 series PLC
 - KTP400 series HMI
+- KTP700 series HMI
 - IFM AL1100 IO-Link master
 - IFM TA2105 IO-Link temperature transmitter
 - Banner TFL100 Pro IO-Link tower light
